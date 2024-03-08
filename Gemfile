@@ -78,3 +78,5 @@ gem "aws-sdk-s3", require: false
 
 
 gem "webrick", "~> 1.8"
+
+gem "pagy", "~> 7.0"
